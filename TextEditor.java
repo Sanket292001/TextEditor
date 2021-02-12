@@ -4,7 +4,7 @@ import java.awt.event.*;
 import java.awt.print.PrinterJob;
 import java.io.*;
 import java.util.*;
-
+//This line was added by me
 public class TextEditor extends JFrame implements ActionListener,ItemListener
 {
     JButton btn_inc_size,btn_dec_size,change_color;
